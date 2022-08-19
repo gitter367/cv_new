@@ -1,0 +1,200 @@
+.top-head {
+    background-color: #E4F9F5;
+    width: 100%;
+    height: 48rem;
+    padding-top: 2.5rem;
+    position: relative;
+}
+
+.word-robot {
+    text-decoration: underline;
+}
+
+    body {
+    height: 100%;
+    width: 100%;
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Space Grotesk', sans-serif;
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 6.25rem;
+    margin-top: 0.6em;
+    position: relative;
+    top: 5.5rem;
+    left: 0.5rem;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #11999E;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+hr {
+    border: none;
+    border-top: 10px dotted #EAF6F6;
+    width: 100px;
+}
+
+p {
+    font-size: 17px;
+}
+
+a:hover{
+    color: white;
+}
+
+.profile {
+    width: 50%;
+    margin: 70px auto 70px auto;
+}
+
+.botcloud {
+    position: absolute;
+    bottom: 19.375rem;
+    left: 17.1875rem;
+}
+
+.topcloud {
+    position: absolute;
+    right: 18.75rem;
+    top: 3.125rem;
+}
+
+.drone {
+    position: relative;
+    text-align: center;
+    width: 450px;
+    height: auto;
+    margin-top: 150px;
+    z-index: 1;
+    /* position: absolute;
+    top: 25.125rem;
+    right: 28.125rem; */
+}
+.profile{
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+    margin-top: 0px;
+    padding-top: 70px;
+}
+.top-head-2 {
+    position: relative;
+    top: 5rem;
+    font-size: 1.625rem;
+    margin: auto;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skills {
+    margin: 70px auto;
+}
+
+.pcb {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.robotics {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.guitar {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.contact-me {
+    line-height: 2;
+    height: 440px;
+    margin-top: 70px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    text-decoration: none;
+    position: absolute;
+    width: 100%;
+    height: 400px;
+}
+
+.copyright {
+    color: white;
+    margin-top: 100px;
+}
+
+.footer-link {
+    text-decoration: none;
+    position: relative;
+    margin: 0 2%;
+    top: 40px;
+    width: 100%;
+}
+
+.contact_me_button {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -moz-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -ms-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -o-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -webkit-gradient(to bottom, #66BFBF, #11999E);
+    -webkit-border-radius: 11px;
+    border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    /* position: absolute; */
+    /*display: inline-block; */
+    margin-top: 60px;
+    /* left: 682px; */
+}
+
+.contact_me_button:hover {
+    background: #66BFBF;
+    text-decoration: none;
+}
+
+.hello_ {
+    font-size: 2.5rem;
+}
+
+.profile_pic{
+    height: 180px;
+    width: 180px;
+}
